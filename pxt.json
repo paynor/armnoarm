@@ -1,10 +1,10 @@
 {
-    "name": "Armnoarm",
+    "name": "Armnoarm1",
     "description": "",
     "dependencies": {
         "core": "*",
         "microphone": "*",
-        "bluetooth": "*"
+        "test1": "github:paynor/test1#master"
     },
     "files": [
         "main.blocks",
